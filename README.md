@@ -1,2 +1,2 @@
-# -bootstrap_tooltips
+# bootstrap Tooltips
 Using bootstrap tooltips
